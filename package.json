@@ -1,0 +1,14 @@
+{
+  "name": "winstonlogtest",
+  "version": "1.0.0",
+  "description": "To test the winston logging features",
+  "main": "Logtest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikas Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^2.4.2"
+  }
+}

@@ -1,0 +1,6 @@
+{"level":"info","message":"Hello world","timestamp":"18:09:09"}
+{"level":"warn","message":"Warning message","timestamp":"18:09:09"}
+{"level":"debug","message":"Debugging info","timestamp":"18:09:09"}
+{"level":"info","message":"Hello world using module","timestamp":"18:09:23"}
+{"level":"warn","message":"Warning message","timestamp":"18:09:23"}
+{"level":"debug","message":"Debugging info","timestamp":"18:09:23"}
